@@ -1,0 +1,25 @@
+.my-bg-green{
+    background-color: lime;
+}
+.my-bg-orange{
+    background-color: orange;
+}
+.my-bg-lightblue{
+    background-color: lightblue;
+}
+.my-bg-blue{
+    background-color: blue;
+}
+.mybox{
+    width: 800px;
+}
+.my-small-box{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 10px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 100px;
+    border-radius: .75em;
+}
